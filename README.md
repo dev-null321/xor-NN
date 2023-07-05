@@ -1,5 +1,5 @@
 # xor-NN
-This a simple Neural Network that solves for XOR. The XOR problem 
+This a simple Neural Network that solves for XOR.
 
 
  XOR (exclusive OR) is a logical operation that takes two binary inputs and produces an output based on the following rule:
